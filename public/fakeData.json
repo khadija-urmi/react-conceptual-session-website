@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "image": "https://images.unsplash.com/photo-1589381653049-3800c9f0d4ec",
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "price": 59.99,
+        "category": "Electronics",
+        "isFeatured": true
+    },
+    {
+        "id": 2,
+        "name": "Smart LED TV 55 inch",
+        "image": "https://images.unsplash.com/photo-1606813908896-18ec46f05633",
+        "description": "Ultra HD Smart LED TV with built-in apps and voice control.",
+        "price": 499.99,
+        "category": "Electronics",
+        "isFeatured": false
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "image": "https://images.unsplash.com/photo-1579273166315-15b4c8b4a2f7",
+        "description": "Comfortable running shoes for daily workouts and sports.",
+        "price": 89.99,
+        "category": "Footwear",
+        "isFeatured": true
+    },
+    {
+        "id": 4,
+        "name": "Leather Wallet",
+        "image": "https://images.unsplash.com/photo-1593032466147-d013d597831b",
+        "description": "Genuine leather wallet with multiple compartments for cards.",
+        "price": 29.99,
+        "category": "Accessories",
+        "isFeatured": false
+    },
+    {
+        "id": 5,
+        "name": "Stainless Steel Water Bottle",
+        "image": "https://images.unsplash.com/photo-1564822033303-6dfd2eb5ff17",
+        "description": "Durable stainless steel water bottle, keeps beverages hot or cold.",
+        "price": 19.99,
+        "category": "Home & Kitchen",
+        "isFeatured": true
+    },
+    {
+        "id": 6,
+        "name": "Gaming Laptop",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+        "description": "High-performance laptop with powerful graphics for gaming.",
+        "price": 1199.99,
+        "category": "Electronics",
+        "isFeatured": false
+    },
+    {
+        "id": 7,
+        "name": "Yoga Mat",
+        "image": "https://images.unsplash.com/photo-1599949305582-9c28d9cd4874",
+        "description": "Eco-friendly yoga mat with non-slip surface for comfort.",
+        "price": 24.99,
+        "category": "Fitness",
+        "isFeatured": true
+    },
+    {
+        "id": 8,
+        "name": "Wireless Charging Pad",
+        "image": "https://images.unsplash.com/photo-1570912532453-e7d1d336f8c2",
+        "description": "Fast wireless charging pad compatible with most smartphones.",
+        "price": 34.99,
+        "category": "Accessories",
+        "isFeatured": false
+    },
+    {
+        "id": 9,
+        "name": "Digital Camera",
+        "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+        "description": "Compact digital camera with 4K video recording capabilities.",
+        "price": 399.99,
+        "category": "Electronics",
+        "isFeatured": true
+    },
+    {
+        "id": 10,
+        "name": "Wooden Coffee Table",
+        "image": "https://images.unsplash.com/photo-1581291518830-3dbb08f150ef",
+        "description": "Modern wooden coffee table with a minimalist design.",
+        "price": 199.99,
+        "category": "Furniture",
+        "isFeatured": false
+    }
+]
